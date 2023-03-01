@@ -128,7 +128,7 @@ li{
 .card2{
     width: 20rem;
     height: 32rem;
-    background-color:rgb(217, 3, 104) ;
+    background-color:rgb(217, 3, 104);
 }
 .card3{
     width: 20rem;
@@ -195,6 +195,18 @@ footer {
     transform: translateY(-5px);
 }
 
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: #262626;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.copyright p{
+    color:rgb(233, 147, 216) ;
+}
 /* ----------Details--------- */
 .list-group-item{
     color: rgb(233, 147, 216);
