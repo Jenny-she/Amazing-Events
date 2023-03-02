@@ -114,6 +114,7 @@ li{
     flex-flow: row wrap;
     justify-content: space-around;
     padding-top: 3rem;
+    gap: 1rem;
 }
 .card1,.card2{
     border-radius: 22px;
@@ -211,3 +212,4 @@ footer {
 .list-group-item{
     color: rgb(233, 147, 216);
 }
+
